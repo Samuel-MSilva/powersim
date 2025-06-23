@@ -8,7 +8,14 @@ Ele utiliza tecnologias modernas como **Node.js, Express, EJS, SQLite** e conta 
 
 ## Preview
 
-![Preview do PowerSim](./preview.png)
+## Tabela de dispositivos
+![Dispositivos](./dispositivos.png)
+
+## Configurar tarifa
+![Tarifa](./tarifa.png)
+
+## Gráfico de resumo
+![Gráfico](./resumo.png)
 
 ---
 
@@ -64,7 +71,7 @@ powersim/
 
 ```bash
 # Clone o projeto
-git clone https://github.com/seu-usuario/powersim.git
+git clone https://github.com/Samuel-MSilva/powersim
 
 cd powersim
 
