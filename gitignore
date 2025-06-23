@@ -1,0 +1,15 @@
+# Ignorar a pasta node_modules (muito grande, desnecessária no Git)
+node_modules/
+
+# Ignorar arquivos de ambiente sensíveis
+.env
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar logs
+*.log
+
+# SQLite database (opcional, se você quiser versionar, remova essa linha)
+*.sqlite
